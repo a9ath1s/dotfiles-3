@@ -1,7 +1,7 @@
 ### My _i3-gaps/bspwm_ dotfiles
 This is a repository dedicated to back-up and share my dotfiles when needed.
 
-![dotfiles-logo](/artworks/dotfile-logo2.png
+![dotfiles-logo](/artworks/dotfile-logo2.png)
 
 # THIS BRANCH IS FOR TESTING
 ## Anyting here can be and will change or alter without any previous warning!
