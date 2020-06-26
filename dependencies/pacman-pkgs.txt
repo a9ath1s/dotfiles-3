@@ -199,7 +199,6 @@ python-pip
 python-pywal
 python2-pip
 qbittorrent
-qt5-styleplugins
 qt5ct
 qutebrowser
 redshift
