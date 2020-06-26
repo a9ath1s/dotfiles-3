@@ -38,6 +38,7 @@ peco
 pqiv
 python-colorthief
 python-haishoku
+qt5-styleplugins
 ranger-git
 rxvt-unicode-pixbuf
 siji-git
